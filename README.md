@@ -34,9 +34,9 @@ Nope! NYU and CU are where TC got started. However, we are actively seeking lead
 
 Tech Collab was founded by Cheryl Wu, tech@NYU e-board member and hackNY 2012 Fellow. TC was started in 2014 under Ethan Resnick's presidency at tech@NYU, with the following signatories actively participating:
 
-- tech@NYU
-- CORE
-- EIA
-- create@cooper
+- tech@NYU at NYU
+- CORE at Columbia
+- EIA at NYU Poly
+- create@cooper at Cooper Union
 
 Tech Collab is and always has been an alliance, sans hierarchy. It is led by delegates from each member organization. Delegates are usually fairly senior within their main organizations.
