@@ -40,3 +40,5 @@ Tech Collab was founded by Cheryl Wu, tech@NYU e-board member and hackNY 2012 Fe
 - create@cooper at Cooper Union
 
 Tech Collab is and always has been an alliance, sans hierarchy. It is led by delegates from each member organization. Delegates are usually fairly senior within their main organizations.
+
+Current members and delegates' information can be found in the [member-organizations](https://github.com/TechCollabNYC/member-organizations) repo.
