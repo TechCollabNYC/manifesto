@@ -2,14 +2,14 @@
 
 Tech Collab is an alliance of the leading collegiate tech && entrepreneurship organizations in New York City. 
 
-Tech Collab aims to make the NYC tech community stronger. By working together, member organizations aim to connect student leaders from across the city, help each other, and have fun through partying and community.
+Tech Collab aims to make the NYC tech community stronger. By working together, member organizations connect student leaders from across the city, help each other, and have fun through partying and community.
 
 Our current member organization makeup includes clubs from
 - New York University
 - Columbia University
 - The Cooper Union
 
-We are currently collating the member organizations for the 2015-2016 school year.
+We are collating the member organizations for the 2015-2016 school year. Current members and delegates' information can be found in the [member-organizations](https://github.com/TechCollabNYC/member-organizations) repo.
 
 # Benefits
 
