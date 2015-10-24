@@ -1,3 +1,5 @@
+![Tech Collab NYC](https://pbs.twimg.com/media/CSGpwaNVEAAomac.png:large)
+
 # What is Tech Collab?
 
 Tech Collab is an alliance of the leading collegiate tech && entrepreneurship organizations in New York City. 
